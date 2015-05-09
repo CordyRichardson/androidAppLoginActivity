@@ -4,4 +4,7 @@
     <string name="prompt_email">Enter email address</string>
     <string name="prompt_password">Enter password</string>
     <string name="sign_in_button_text">Sign In</string>
+    <string name="log_in_option_text">Or Log in using</string>
+
+    <string name="facebook_app_id">765879663510178</string>
 </resources>
